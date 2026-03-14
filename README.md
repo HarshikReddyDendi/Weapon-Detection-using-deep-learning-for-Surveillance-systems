@@ -164,8 +164,8 @@ MIT License
 
 ## 🙌 Author
 
-**Sharath Kasthala**
-GitHub: [https://github.com/SharathKasthala](https://github.com/SharathKasthala)
+**HarshikReddyDendi**
+GitHub: [https://github.com/HarshikReddyDendi](https://github.com/HarshikReddyDendi)
 
 ---
 
